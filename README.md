@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cpp-calc
 
 🧮 **cpp-calc**, C++ diliyle geliştirilmiş basit bir komut satırı hesap makinesidir.  
